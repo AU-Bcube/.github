@@ -1,1 +1,4 @@
 [![Website](https://img.shields.io/badge/Website-518CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://b-cube.kr/)  [![Instagram](https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sexyit_season2)  [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/AU-Bcube) 
+
+[LICENSE.md](LICENSE.md)<br>
+Repositories managed by the [B-CUBE](https://www.b-cube.kr) and under [AU-Bcube](https://github.com/AU-Bcube) organization are under the MIT License.
