@@ -6,6 +6,9 @@
 
 ## LICENSE
 
+Copyright (C) 2026 아주대학교 경영대학 소학회 비큐브(B-CUBE)  
+Copyright (C) 2026 B-CUBE, School of Business, Ajou University
+
 Repositories managed by the [B-CUBE](https://www.b-cube.kr) and under [AU-Bcube](https://github.com/AU-Bcube) organization are under the [GNU General Public License v3.0](LICENSE), unless listed otherwise below.
 
 | Repository | License | SPDX |
