@@ -2,11 +2,10 @@
 
 ## CODE OF CONDUCT
 
+All members of B-CUBE must comply with the following CODE OF CONDUCT.<br>
+[CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)<br>
+하위 리포지토리에 아래 설정 적용을 권장합니다.<br>
 [AU-Bcube Github 조직 가이드](../guides/GUIDES.md)
-
-All members of B-CUBE must comply with the following CODE OF CONDUCT.
-
-[CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
 
 ## LICENSE
 
@@ -51,4 +50,4 @@ Any mention of `B-Cube`, `bcube`, `비큐브`, equivalent terms, or associated s
 
 [AU-Bcube](https://github.com/AU-Bcube)의 모든 문서 및 리포지토리의 `B-Cube`, `bcube`, `비큐브` 혹은 이와 유사한 표현과 아래 심볼과 아래 심볼을 사용한 표현은 모두 아주대학교 경영대학 소학회 비큐브를 지칭합니다.
 
-![alt text](assets/logo.svg)
+![심볼_symbol](assets/logo.svg)
