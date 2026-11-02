@@ -41,7 +41,10 @@ have a free tier, or are free for open source, which we would like to
 acknowledge and give our thanks to:
 
 <a href="https://www.netlify.com">
-  <img src="https://www.netlify.com/assets/badges/netlify-badge-dark.svg" alt="Deploys by Netlify" />
+  <img height="51" src="https://www.netlify.com/assets/badges/netlify-badge-dark.svg" alt="Deploys by Netlify" />
+</a><br>
+<a href="https://www.cloudflare.com">
+  <img height="51" src="assets/cloudflare.png" alt="protected by cloudflare" />
 </a>
 
 ## USE FOR B-CUBE
