@@ -9,8 +9,8 @@ All members of B-CUBE must comply with the following CODE OF CONDUCT.<br>
 
 ## LICENSE
 
-Copyright (C) 2026 아주대학교 경영대학 소학회 비큐브(B-CUBE)  
-Copyright (C) 2026 B-CUBE, School of Business, Ajou University
+Copyright (C) 2026 아주대학교 경영인텔리전스학과 소학회 비큐브(B-CUBE)  
+Copyright (C) 2026 B-CUBE, Department of business intelligence, Ajou University
 
 Repositories managed by the [B-CUBE](https://www.b-cube.kr) and under [AU-Bcube](https://github.com/AU-Bcube) organization are under the [GNU General Public License v3.0](LICENSE), unless listed otherwise below.
 
@@ -49,8 +49,8 @@ acknowledge and give our thanks to:
 
 ## USE FOR B-CUBE
 
-Any mention of `B-Cube`, `bcube`, `비큐브`, equivalent terms, or associated symbols within any document or repository under [AU-Bcube](https://github.com/AU-Bcube) designates "B-Cube" a student society of the School of Business Administration at Ajou University.
+Any mention of `B-Cube`, `bcube`, `비큐브`, equivalent terms, or associated symbols within any document or repository under [AU-Bcube](https://github.com/AU-Bcube) designates "B-Cube" a student society of the Department of business intelligence at Ajou University.
 
-[AU-Bcube](https://github.com/AU-Bcube)의 모든 문서 및 리포지토리의 `B-Cube`, `bcube`, `비큐브` 혹은 이와 유사한 표현과 아래 심볼과 아래 심볼을 사용한 표현은 모두 아주대학교 경영대학 소학회 비큐브를 지칭합니다.
+[AU-Bcube](https://github.com/AU-Bcube)의 모든 문서 및 리포지토리의 `B-Cube`, `bcube`, `비큐브` 혹은 이와 유사한 표현과 아래 심볼과 아래 심볼을 사용한 표현은 모두 아주대학교 경영인텔리전스학과 소학회 비큐브를 지칭합니다.
 
 ![심볼_symbol](assets/logo.svg)
